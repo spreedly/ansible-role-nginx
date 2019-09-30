@@ -1,2 +1,5 @@
+.bundle
+.direnv
 *.retry
 tests/test.sh
+vendor/bundle
